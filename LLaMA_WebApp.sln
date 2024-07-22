@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LLaMA_API", "LLaMA_API\LLaMA_API.csproj", "{9F5CE111-A98C-42E4-B588-C8DB54FB53F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LLaMA_Console", "LLaMA_Console\LLaMA_Console.csproj", "{32C537D1-BAF4-4589-87E0-42B729FBC1BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F5CE111-A98C-42E4-B588-C8DB54FB53F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F5CE111-A98C-42E4-B588-C8DB54FB53F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F5CE111-A98C-42E4-B588-C8DB54FB53F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F5CE111-A98C-42E4-B588-C8DB54FB53F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32C537D1-BAF4-4589-87E0-42B729FBC1BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32C537D1-BAF4-4589-87E0-42B729FBC1BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32C537D1-BAF4-4589-87E0-42B729FBC1BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32C537D1-BAF4-4589-87E0-42B729FBC1BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5636AACE-188C-4EFE-99EA-D4FBC2EB876A}
+	EndGlobalSection
+EndGlobal
